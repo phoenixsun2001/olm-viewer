@@ -1,0 +1,15 @@
+# 索引与缓存 (含邮件元数据, 严禁公开)
+olm_index/
+
+# 本地测试数据
+*.olm
+*.pkl
+*.png
+
+# Python
+__pycache__/
+*.pyc
+
+# 工具目录
+.playwright-mcp/
+.mimosa/
